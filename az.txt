@@ -1,0 +1,91 @@
+
+## region and their available availability zones
+
+ChatGPT
+As of my last knowledge update in January 2022, AWS provides different availability zones within each region. 
+Availability zones are distinct locations within a region, engineered to be isolated from failures in other availability zones.
+The number of availability zones can vary by region. 
+Here is a general list of AWS regions along with the number of availability zones available in each region:
+
+US East (Northern Virginia) - us-east-1:
+
+us-east-1a
+us-east-1b
+us-east-1c
+us-east-1d
+us-east-1e
+us-east-1f
+US East (Ohio) - us-east-2:
+
+us-east-2a
+us-east-2b
+us-east-2c
+US West (Northern California) - us-west-1:
+
+us-west-1a
+us-west-1b
+us-west-1c
+US West (Oregon) - us-west-2:
+
+us-west-2a
+us-west-2b
+us-west-2c
+Asia Pacific (Mumbai) - ap-south-1:
+
+ap-south-1a
+ap-south-1b
+ap-south-1c
+Asia Pacific (Seoul) - ap-northeast-2:
+
+ap-northeast-2a
+ap-northeast-2b
+ap-northeast-2c
+Asia Pacific (Singapore) - ap-southeast-1:
+
+ap-southeast-1a
+ap-southeast-1b
+ap-southeast-1c
+Asia Pacific (Sydney) - ap-southeast-2:
+
+ap-southeast-2a
+ap-southeast-2b
+ap-southeast-2c
+Asia Pacific (Tokyo) - ap-northeast-1:
+
+ap-northeast-1a
+ap-northeast-1c
+ap-northeast-1d
+Canada (Central) - ca-central-1:
+
+ca-central-1a
+ca-central-1b
+Europe (Frankfurt) - eu-central-1:
+
+eu-central-1a
+eu-central-1b
+eu-central-1c
+Europe (Ireland) - eu-west-1:
+
+eu-west-1a
+eu-west-1b
+eu-west-1c
+Europe (London) - eu-west-2:
+
+eu-west-2a
+eu-west-2b
+eu-west-2c
+Europe (Paris) - eu-west-3:
+
+eu-west-3a
+eu-west-3b
+eu-west-3c
+
+South America (Sao Paulo) - sa-east-1:
+
+sa-east-1a
+sa-east-1b
+sa-east-1c
+
+Please note that AWS may introduce new regions or availability zones,
+and the information provided here is based on the state of AWS as of January 2022. 
+Always refer to the official AWS documentation for the most up-to-date information.
